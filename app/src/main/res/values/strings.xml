@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">myStore</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Beef Burger</item>
+        <item>Brownie</item>
+        <item>Carbonara</item>
+        <item>Fried Fries</item>
+        <item>Mie Ayam</item>
+        <item>Mie Goreng</item>
+        <item>Nasi Goreng</item>
+        <item>Onion Ring</item>
+        <item>Salad</item>
+        <item>Pizza</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Daging sapi pilihan, ditambah dengan Roti yang empuk, dengan sayuran segar dan bumbu khas restoran kami</item>
+        <item>Brownies dengan Es Krim diatasnya</item>
+        <item>Carbonara</item>
+        <item>Kentang Goreng dengan saus sambal dengan ukuran yang berbeda beda</item>
+        <item>Mie dengan bumbu pilihan, ditambah sayur dan jamur dengan tambahan potongan ayam</item>
+        <item>Mie dengan potongan baso ikan, sosis, dan telur orak-arik, digoreng dengan kecap dan dengan variasi pedas. level 1-5</item>
+        <item>Nasi dengan potongan baso ikan, sosis, dan telur orak-arik, digoreng dengan kecap dan dengan variasi pedas. level 1-5</item>
+        <item>Bawang yang dipotong dan dibuat melingkar dan digoreng dengan balutan tepung dan disajikan dengan tambahan saus</item>
+        <item>Sayuran sayuran segar yang terdiri dari seledri, tomat, dengan potongan roti dan disajikan dengan udang goreng dan keju.</item>
+        <item>Pizza dengan saus italia dengan keju dan topping Sosis, Jamur, Pepperroni</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://images.unsplash.com/photo-1586190848861-99aa4a171e90?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=880&amp;q=80</item>
+        <item>https://images.unsplash.com/photo-1624353365286-3f8d62daad51?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1170&amp;q=80</item>
+        <item>https://images.unsplash.com/photo-1588338529744-4d5b9b55579b?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=880&amp;q=80</item>
+        <item>https://images.unsplash.com/photo-1518013431117-eb1465fa5752?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1170&amp;q=80</item>
+        <item>https://images.unsplash.com/photo-1491961865842-98f7befd1a60?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2070&amp;q=80</item>
+        <item>https://images.unsplash.com/photo-1645696329525-8ec3bee460a9?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1329&amp;q=80</item>
+        <item>https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1925&amp;q=80</item>
+        <item>https://images.unsplash.com/photo-1625938146369-adc83368bda7?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1025&amp;q=80</item>
+        <item>https://images.unsplash.com/photo-1551248429-40975aa4de74?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=990&amp;q=80</item>
+        <item>https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1171&amp;q=80</item>
+    </string-array>
+
+    <string-array name="data_bahan">
+        <item>Roti, Daging, Tomat, Acar, Bawang, dan Saos Sambal</item>
+        <item>Brownies Coklat, dan Es Krim pilihan (coklat, strawberry, vanilla)</item>
+        <item>Pasta, Potongan Sosis, Keju dan Saos Carbonara</item>
+        <item>Kentang Goreng dan Saos Sambal</item>
+        <item>Mie, Sayur, Jamur, Potongan Ayam, dan Kuah Kaldu Ayam asli</item>
+        <item>Mie, Baso Ikan, Sosis, Telur Orak-Arik</item>
+        <item>Nasi, Baso Ikan, Sosis, dan Telur Orak Arik</item>
+        <item>Bawang, Tepung, Saos Sambal</item>
+        <item>Seledri, Tomat, Potongan Roti, Udang dan Keju</item>
+        <item>Adonan Pizza, Saos, Keju, Pepperoni, Sosi, dan Keju</item>
+    </string-array>
+</resources>
